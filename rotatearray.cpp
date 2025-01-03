@@ -44,14 +44,36 @@ int main()
     // reversing the first 3 elements in the array
     int start1 = 0;
     int end1 = k-1;
-    while (start < end)
+    while (start1 < end1)
     {
         swap(array[start1],array[end1]);
         start1++;
         end1--;
     }
+    
     //displaying them the first 3 elements in the reversed order
     cout << "\n{";
+    for (int i = 0; i < size; i++)
+    {
+        cout << array[i];
+        if (i < size - 1)
+        {
+            cout << ",";
+        }
+    }
+    cout << "}";
+
+    // reversing the remainig elements in the array..
+   int end2=size-1;
+   int start2  = k;
+   while(start2<end2)
+   {
+    swap(array[start2],array[end2]);
+    start2++;
+    end2--;
+   }
+   //displaying the array with the K shift..
+   cout << "\n{";
     for (int i = 0; i < size; i++)
     {
         cout << array[i];
