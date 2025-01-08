@@ -1,3 +1,6 @@
+
+//QUESTION: ROTATING THE ARRAY BY K SHIFTS TO THE RIGHT
+
 #include <iostream>
 using namespace std;
 #include <algorithm>

@@ -1,3 +1,6 @@
+
+// QUESTION: CALCULATING THE SUM OF DIGITS OF THE NUMBER
+
 #include<iostream>
 using namespace std;
 int digits(int n);

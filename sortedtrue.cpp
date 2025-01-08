@@ -1,3 +1,6 @@
+
+//QUESTION: IS THE ARRAY SORTED
+
 #include <iostream>
 using namespace std;
 

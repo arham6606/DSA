@@ -1,3 +1,6 @@
+
+//QUESTION: MINIMUM PRODUCT SUBARRAYS USING KADANE ALGORITHM
+
 #include <iostream>
 using namespace std;
 #include <vector>

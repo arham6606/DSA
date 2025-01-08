@@ -1,3 +1,6 @@
+
+//QUESTION: MAXIMUM SUBARRAY PRODUCT USING KADANE ALGORITHM
+
 // header files.
 #include <iostream>
 #include <vector>

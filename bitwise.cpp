@@ -1,3 +1,6 @@
+
+//QUESTION: BITWISE SYSNTAX
+
 #include<iostream>
 using namespace std;
 

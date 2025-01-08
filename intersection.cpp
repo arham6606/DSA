@@ -1,3 +1,6 @@
+
+// QUESTION : FINDING THE COMMON NUMBER IN BOTH THE ARRAYS
+
 #include<iostream>
 using namespace std;
 

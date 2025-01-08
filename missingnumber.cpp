@@ -1,3 +1,6 @@
+
+//QUESTION: MISSING NUMBER IN THE ARRAYS
+
 #include <iostream>
 using namespace std;
 #include<algorithm>

@@ -1,3 +1,6 @@
+
+//QUESTION: SWAPPING THE MAXIMUM AND MINIMUM VALUE IN THE ARRAY
+
 #include<iostream>
 using namespace std;
 void enter(int array[],int size);

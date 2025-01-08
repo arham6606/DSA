@@ -1,3 +1,5 @@
+
+//QUESTION : HOW MANY TIMES A NUMBER HAS BEEN REPEATED IN THE ARRAY
 #include<iostream>
 using namespace std;
 

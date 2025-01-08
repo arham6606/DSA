@@ -1,4 +1,7 @@
- #include<iostream>
+
+//QUESTION: SMALLEST AND LARGEST VALUE IN THE ARRAY
+
+#include<iostream>
 using namespace std;
 int main()
 {

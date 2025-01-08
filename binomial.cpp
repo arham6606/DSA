@@ -1,3 +1,5 @@
+
+// QUESTION : nCr CALCULATOR...
 #include<iostream>
 using namespace std;
 

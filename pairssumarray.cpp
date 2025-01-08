@@ -1,3 +1,6 @@
+
+//QUESTION: PAIR SUM IN THE ARRAY
+
 #include <iostream>
 using namespace std;
 void enter(int array[], int size);

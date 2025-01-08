@@ -1,3 +1,6 @@
+
+//QUESTION: REVERSING THE VECTOR
+
 #include<iostream>
 using namespace std;
 #include<vector>

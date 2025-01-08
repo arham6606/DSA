@@ -1,3 +1,6 @@
+
+//QUESTION: MULTIPLICATION OF ARRAYS
+
 #include<iostream>
 using namespace std;
 

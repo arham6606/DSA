@@ -1,3 +1,6 @@
+
+//QUESTION: FINDING THE POWER OF ARRAY NUMBERS
+
 #include <iostream>
 using namespace std;
 #include<cmath>

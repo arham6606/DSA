@@ -1,3 +1,6 @@
+
+//QUESTION : SHIFTING THE ZEROS TO THE RIGHT AND LEFT
+
 #include<iostream>
 #include<algorithm>
 using namespace std;

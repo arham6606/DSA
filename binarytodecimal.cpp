@@ -1,3 +1,6 @@
+
+//QUESTION: BINARY TO DECIMAL CONVERSION
+
 #include<iostream>
 #include<cmath>
 using namespace std;

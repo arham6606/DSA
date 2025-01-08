@@ -1,3 +1,5 @@
+
+//DECIMAL TO BINARY CONVERTER
 #include<iostream>
 using namespace std;
 int decimaltobinary(int num);

@@ -1,3 +1,6 @@
+
+//QUESTION : SUMMING UP THE ARRAY
+
 #include<iostream>
 using namespace std;
 

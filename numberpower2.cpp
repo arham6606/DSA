@@ -1,6 +1,8 @@
+
+//QUESTION: IS THE NUMBER POWER OF 2?
+
+
 /*  this is done by simple method...
-
-
 #include<iostream>
 using namespace std;
 
@@ -33,8 +35,10 @@ int main()
 */
 
 //..........................................
-//this is done by using bitwise operator
 
+
+
+//this is done by using bitwise operator
 #include<iostream>
 using namespace std;
 

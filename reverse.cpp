@@ -1,3 +1,6 @@
+
+//QUESTION: REVERSING THE ARRAY
+
 #include<iostream>
 using namespace std;
 

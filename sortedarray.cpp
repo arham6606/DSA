@@ -1,3 +1,6 @@
+
+//QUESTION: SORTING THE ARRAY AND MAKING THE ARRAY UNIQUE
+
 #include<iostream>
 using namespace std;
 #include<algorithm>

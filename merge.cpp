@@ -1,3 +1,6 @@
+
+//QUESTION: MERGING BOTH THE ARRAYS
+
 #include <iostream>
 using namespace std;
 

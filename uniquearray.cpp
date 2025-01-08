@@ -1,3 +1,6 @@
+
+//QUESTION; FINDING THE UNIQUE VALUE IN THE ARRAY
+
 #include<iostream>
 using namespace std;
 void unique(int array[],int size);

@@ -1,3 +1,6 @@
+
+//QUESTION : SUMMING UP THE VECTOR
+
 #include <iostream>
 #include <vector>
 using namespace std;
