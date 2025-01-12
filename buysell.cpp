@@ -16,7 +16,7 @@ int main()
 int maxprofit(vector<int> &vec)
 {
     int buy = vec[0];
-    int sell;
+    int sell = 0;
     for (int i = 1; i < vec.size(); i++)
     {
         if( vec[i] >buy)
