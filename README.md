@@ -94,8 +94,4 @@ Favorite Commit Message: "Refactor code and improve readability"
 
 🌐 Connect with Me
 
-Instagram: @yourusername
-
-Twitter: @yourusername
-
-LinkedIn: LinkedIn Profile
+Twitter: @m_arham2
